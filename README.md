@@ -33,8 +33,8 @@ pause>nul
 <img width="960" alt="json1" src="https://user-images.githubusercontent.com/50701343/76093038-b4a37100-6003-11ea-9acb-217a5023e808.PNG">
 
 2. http://localhost:8080/index.html => ajax로 '/dorim' url을 통해 json 데이터를 받아 html로 보여주는 화면
-<img width="960" alt="html2" src="https://user-images.githubusercontent.com/50701343/76093021-ace3cc80-6003-11ea-8ce6-60a3cc90bf17.PNG">
-<img width="960" alt="html3" src="https://user-images.githubusercontent.com/50701343/76093116-cdac2200-6003-11ea-9220-2f0d5c7f2e1c.PNG">
+<img width="938" alt="result1" src="https://user-images.githubusercontent.com/50701343/81381575-e8a42b00-9147-11ea-86ac-53c1162d6c3a.PNG">
+<img width="940" alt="result2" src="https://user-images.githubusercontent.com/50701343/81381582-ea6dee80-9147-11ea-9dc7-3eda053e8f16.PNG">
 
 
 # json DB 저장 (RestProjectApplication.java)
