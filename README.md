@@ -6,7 +6,7 @@
 3. Eclipse에 접속하여 Help - Eclipse Marketplace - 'Spring Tool 4.5.1.RELEASE' install
 4. Mysql(mysql-installer-community-8.0.15.0) 설치 후 schema name : 'nice' , db name : 'dorim' 테이블 생성 (create.sql 파일 참고)
 5. github에서 Clone or download 후 로컬 eclipse-workspace 폴더에 저장
-6. 다시 Eclipase에 접속하여 import - Existing Projects into Workspace로 'RestProject' import
+6. 다시 Eclipse에 접속하여 import - Existing Projects into Workspace로 'RestProject' import
 7. RestProject/src/main/resources/application.properties파일에서 username, password DB 정보에 알맞게 변경
 8. RestProject 우 클릭 - Run As - Maven build
 
