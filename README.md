@@ -13,6 +13,7 @@
 # 명령어로 실행
 1. cmd를 키고 jar 파일이 생성된 위치로 이동
 2. 'java -jar 'jar 파일이 생성된 위치'/RestProject-0.0.1-SNAPSHOT.jar' 명령 실행
+<img width="734" alt="run" src="https://user-images.githubusercontent.com/50701343/81380863-91518b00-9146-11ea-9639-d48599270169.PNG">
 
 
 # 배치 프로그램으로 실행
