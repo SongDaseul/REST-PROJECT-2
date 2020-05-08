@@ -13,12 +13,17 @@
 # 명령어로 실행
 1. cmd를 키고 jar 파일이 생성된 위치로 이동
 2. 'java -jar 'jar 파일이 생성된 위치'/RestProject-0.0.1-SNAPSHOT.jar' 명령 실행
+![run](https://user-images.githubusercontent.com/50701343/81380158-5bf86d80-9145-11ea-8935-1687a66ac9c0.JPG)
 
 # 배치 프로그램으로 실행
-1. text 파일에 아래 내용 기입 후 저장 ( ANSI, 모든 파일로 저장, 파일명-RestProject.bat )
+1. text 파일에 아래 내용 기입 후 저장 ( ANSI, all files, file name -RestProject.bat )
+```
 java -jar 'jar 파일이 생성된 위치'/RestProject-0.0.1-SNAPSHOT.jar
 pause>nul
+```
 2. RestProject.bat 더블 클릭
+
+
 
 # 실행 결과
 1. http://localhost:8080/dorim => json 그대로 보여주는 화면
