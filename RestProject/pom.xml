@@ -13,7 +13,7 @@
 	<artifactId>RestProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>RestProject</name>
-	<packaging>jar</packaging> <!-- 이거 추가 -->
+	<packaging>jar</packaging>
 
 	<properties>
       	<start-class>com.rest.RestProjectApplication</start-class>
